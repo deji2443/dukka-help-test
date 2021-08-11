@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdukka_help=self.webpackChunkdukka_help||[]).push([[674],{6983:function(e){e.exports=JSON.parse('{"permalink":"/dukka-help-test/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

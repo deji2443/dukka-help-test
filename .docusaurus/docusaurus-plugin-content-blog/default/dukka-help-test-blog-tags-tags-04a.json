@@ -1,0 +1,30 @@
+{
+  "facebook": {
+    "allTagsPath": "/dukka-help-test/blog/tags",
+    "slug": "facebook",
+    "name": "facebook",
+    "count": 1,
+    "permalink": "/dukka-help-test/blog/tags/facebook"
+  },
+  "hello": {
+    "allTagsPath": "/dukka-help-test/blog/tags",
+    "slug": "hello",
+    "name": "hello",
+    "count": 2,
+    "permalink": "/dukka-help-test/blog/tags/hello"
+  },
+  "docusaurus": {
+    "allTagsPath": "/dukka-help-test/blog/tags",
+    "slug": "docusaurus",
+    "name": "docusaurus",
+    "count": 3,
+    "permalink": "/dukka-help-test/blog/tags/docusaurus"
+  },
+  "hola": {
+    "allTagsPath": "/dukka-help-test/blog/tags",
+    "slug": "hola",
+    "name": "hola",
+    "count": 1,
+    "permalink": "/dukka-help-test/blog/tags/hola"
+  }
+}

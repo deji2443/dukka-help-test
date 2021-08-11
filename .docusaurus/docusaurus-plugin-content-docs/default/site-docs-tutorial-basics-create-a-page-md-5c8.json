@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/create-a-page",
+  "id": "tutorial-basics/create-a-page",
+  "isDocsHomePage": false,
+  "title": "Welcome",
+  "description": "<!-- Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/tutorial-basics/create-a-page.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-page",
+  "permalink": "/dukka-help-test/docs/tutorial-basics/create-a-page",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-page.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "QUICK START",
+    "permalink": "/dukka-help-test/docs/intro"
+  },
+  "next": {
+    "title": "Create an Account",
+    "permalink": "/dukka-help-test/docs/tutorial-basics/create-a-document"
+  }
+}
