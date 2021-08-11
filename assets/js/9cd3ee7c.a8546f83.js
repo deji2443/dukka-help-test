@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdukka_help=self.webpackChunkdukka_help||[]).push([[985],{3767:function(e){e.exports=JSON.parse('{"allTagsPath":"/dukka-help-test/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/dukka-help-test/blog/tags/facebook"}')}}]);

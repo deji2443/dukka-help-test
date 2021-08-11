@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdukka_help=self.webpackChunkdukka_help||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/dukka-help-test/blog/welcome"},{"title":"Hello","permalink":"/dukka-help-test/blog/hello-world"},{"title":"Hola","permalink":"/dukka-help-test/blog/hola"}]}')}}]);

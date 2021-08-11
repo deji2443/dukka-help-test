@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdukka_help=self.webpackChunkdukka_help||[]).push([[609],{4892:function(u){u.exports=JSON.parse('{"allTagsPath":"/dukka-help-test/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/dukka-help-test/blog/tags/docusaurus"}')}}]);
